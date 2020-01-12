@@ -1,6 +1,7 @@
 #lang pollen
 
 ◊(define-meta title "Expressando ações em curso com 在")
+◊(define-meta id "zai-hsk1")
 ◊(define-meta tags ('gramatica 'hsk1 'a2 'adverbios))
 
 在 (zài) e 正在 (zhèngzài) podem ser utilizados como ◊ref{verbos auxiliares} para sinalizar que uma ação está em curso ou em progresso. Isso muitas vezes equivale ao *presente contínuo* em português.
